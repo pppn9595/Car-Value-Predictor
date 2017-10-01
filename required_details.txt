@@ -1,0 +1,6 @@
+- ár
+- évjárat
+- kilóméteróra
+- üzemanyag
+- márka
+(- típus)
